@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-05T21:26:41 IST" name="Default suite" finished-at="2023-02-05T21:28:48 IST" duration-ms="126558">
+    <groups>
+    </groups>
+    <test started-at="2023-02-05T21:26:41 IST" name="Default test" finished-at="2023-02-05T21:28:48 IST" duration-ms="126558">
+      <class name="implementation.B_LogOut">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:implementation.B_LogOut@72f926e6]" started-at="2023-02-05T21:26:41 IST" name="Driver" finished-at="2023-02-05T21:26:59 IST" duration-ms="17883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method signature="AFlipkarttest()[pri:0, instance:implementation.B_LogOut@72f926e6]" started-at="2023-02-05T21:26:59 IST" name="AFlipkarttest" finished-at="2023-02-05T21:28:47 IST" duration-ms="108016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFlipkarttest -->
+        <test-method signature="BLogOut()[pri:0, instance:implementation.B_LogOut@72f926e6]" started-at="2023-02-05T21:28:47 IST" name="BLogOut" finished-at="2023-02-05T21:28:48 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BLogOut -->
+      </class> <!-- implementation.B_LogOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
